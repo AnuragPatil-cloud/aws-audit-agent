@@ -186,11 +186,18 @@ rich
 
 **Built an AI-powered DevOps agent using AWS CLI, LangChain, and Gemini to audit cloud infrastructure and generate automated insights and recommendations.**
 ---
-<img width="1173" height="665" alt="final output1 1" src="https://github.com/user-attachments/assets/1072663f-5da1-4b52-8ce1-a307cf905323" />
+<img width="1920" height="834" alt="final output" src="https://github.com/user-attachments/assets/f406672f-0e7b-4e1c-9b3c-df2faefd11cb" />
+
 
 ---
 
-<img width="1920" height="841" alt="final output2" src="https://github.com/user-attachments/assets/425941bb-7151-48e8-82ce-6e25ab43a754" />
+<img width="1173" height="665" alt="final output1 1" src="https://github.com/user-attachments/assets/5d4aad5a-cc53-4812-8a3f-309f73954153" />
+
+
+---
+
+<img width="1920" height="841" alt="final output2" src="https://github.com/user-attachments/assets/d4e2ad40-98ec-4d86-9f93-8766f0a74fdf" />
+
 
 ---
 ## 🤝 Contributing
